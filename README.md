@@ -1,2 +1,2 @@
 # desafio-dio-treinamento-rede-yolo
-Treinamento da Rede YOLO
+Projeto da Formação de Machine Learning da DIO para Treinamento da Rede YOLO, que é utilizada para detecção e classificação de objetos.
